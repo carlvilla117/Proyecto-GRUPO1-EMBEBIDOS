@@ -1,0 +1,2 @@
+El archivo spldrj tiene la incluído todos los códigos para ejecutarse, sin embargo se incluye la división en archivos .h y .c de modo que se puede hacer 
+un nuevo esquemático e incluir estos archivos para ejecutarlo sin problemas, incluso el código del main.c por lo que se dejan ambas opciones para el lector.
