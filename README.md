@@ -28,10 +28,14 @@ SIMULACION ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION<6000[PPM]
 ![Concentración menor a 6000PPM](https://user-images.githubusercontent.com/89809182/150015173-232650d2-fece-4630-9c1b-69e33936eeec.JPG)
 SIMULACION UBIDOTS | CONCENTRACION<6000[PPM]
 ![Concentración menor a 6000PM_Ubidots](https://user-images.githubusercontent.com/89809182/150015181-61ab72ba-8f38-44f7-a210-7c3009040323.JPG)
+ACTUALIZACION DE DATO DE CONCENTRACION ACTUAL 195 [PPM] | FIREBASE
+![Actualización dato actual en Firebase 1](https://user-images.githubusercontent.com/89809182/150022239-f55dc106-e3e3-4f40-a974-688f3148560e.jpg)
 SIMULACION ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION>6000[PPM]
 ![Concentración mayor a 6000PPM](https://user-images.githubusercontent.com/89809182/150015201-dcc64291-88a9-4197-98a0-30593e8ffed9.JPG)
 SIMULACION UBIDOTS | CONCENTRACION>6000[PPM]
 ![Concentración mayor a 6000PPM_Ubidots](https://user-images.githubusercontent.com/89809182/150015207-cb5864f7-2c5d-4a97-a088-a84fb342cb35.JPG)
+ACTUALIZACION DE DATO DE CONCENTRACION ACTUAL 6402 [PPM] | FIREBASE
+![Actualización dato actual en Firebase](https://user-images.githubusercontent.com/89809182/150021779-35f4ca95-6c57-492c-bab0-87696756a8fe.jpg)
 
 NOTIFICACION POR CORREO
 
@@ -46,3 +50,5 @@ NOTIFICACION POR CORREO
 - Serial a 9600 Baudios
 - Frecuencia de 8 MHz
 - Configuración estandar en modo UART
+
+
