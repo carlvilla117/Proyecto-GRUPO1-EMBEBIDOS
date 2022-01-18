@@ -15,4 +15,7 @@ PCB
 - PROTEUS 8 PROFESSIONAL
 - ATMEL STUDIO (PRODUCCION DE .HEX DE PRUEBA)
 - VIRTUAL SERAL PORTS EMULATOR
-
+# Indicaciones generales
+- Serial a 9600 Baudios
+- Frecuencia de 8 MHz
+- Configuración estandar en modo UART
