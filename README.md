@@ -19,11 +19,6 @@ APP INVENTOR | DESIGNER
 APP INVENTOR | BLOCKS
 
 ![App_inventor_Blocks](https://user-images.githubusercontent.com/89809182/150012134-a0aa6f81-e5d7-41d8-aea8-da9b0e6593b6.JPG)
-
-NOTIFICACION POR CORREO
-
-![Notificacion por correo](https://user-images.githubusercontent.com/89809182/150012136-9c262b6f-c1e9-4105-a284-812075471498.JPG)
-
 DIAGRAMA INICIAL ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION<6000[PPM]
 ![Diagrama inicial](https://user-images.githubusercontent.com/89809182/150015160-7ec2cca8-eb9f-4c6d-846e-64f4e1262321.JPG)
 SIMULACION ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION<6000[PPM]
@@ -34,6 +29,11 @@ SIMULACION ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION>6000[PPM]
 ![Concentración mayor a 6000PPM](https://user-images.githubusercontent.com/89809182/150015201-dcc64291-88a9-4197-98a0-30593e8ffed9.JPG)
 SIMULACION UBIDOTS | CONCENTRACION>6000[PPM]
 ![Concentración mayor a 6000PPM_Ubidots](https://user-images.githubusercontent.com/89809182/150015207-cb5864f7-2c5d-4a97-a088-a84fb342cb35.JPG)
+
+NOTIFICACION POR CORREO
+
+![Notificacion por correo](https://user-images.githubusercontent.com/89809182/150012136-9c262b6f-c1e9-4105-a284-812075471498.JPG)
+
 
 # Programas utilizados
 - PROTEUS 8 PROFESSIONAL
