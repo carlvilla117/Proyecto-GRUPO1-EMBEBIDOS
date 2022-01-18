@@ -9,7 +9,9 @@ RASPBERRY PI 4 | LED | BUZZER | PUERTO COM | TERMINAL VIRTUAL
 ![RPI4_esquematico](https://user-images.githubusercontent.com/64044895/149861173-3aea757d-aebf-48de-9c3b-5a134753a549.png)
 ESQUEMÁTICO COMPLETO
 ![Esquematico_completo](https://user-images.githubusercontent.com/64044895/149861628-273a7632-fb6c-4cef-b2cc-2aabedec5619.png)
+
 PCB
+
 ![PCB](https://user-images.githubusercontent.com/64044895/149861771-b11b0451-07d5-4136-aa02-7eb56bf832ba.png)
 
 APP INVENTOR | DESIGNER
