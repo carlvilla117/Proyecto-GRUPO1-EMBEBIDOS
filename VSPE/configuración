@@ -1,1 +1,4 @@
-
+Configuración para VIRTUAL SERIAL PORT EMULATOR
+- COM10 y COM11 en modo PAIR
+- COM10 y COM11 en las propiedades de ambos puertos en PROTEUS
+Adicionalmente se adjnta el archivo para poder hacer uso del programa
