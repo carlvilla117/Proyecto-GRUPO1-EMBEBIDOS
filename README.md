@@ -28,9 +28,6 @@ SIMULACION ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION<6000[PPM]
 ![Concentración menor a 6000PPM](https://user-images.githubusercontent.com/89809182/150015173-232650d2-fece-4630-9c1b-69e33936eeec.JPG)
 SIMULACION UBIDOTS | CONCENTRACION<6000[PPM]
 ![Concentración menor a 6000PM_Ubidots](https://user-images.githubusercontent.com/89809182/150015181-61ab72ba-8f38-44f7-a210-7c3009040323.JPG)
-ACTUALIZACION DE DATO DE CONCENTRACION ACTUAL 195 [PPM] | FIREBASE
-![Actualización dato actual en Firebase 1](https://user-images.githubusercontent.com/89809182/150022239-f55dc106-e3e3-4f40-a974-688f3148560e.jpg)
-
 SIMULACION ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION>6000[PPM]
 ![Concentración mayor a 6000PPM](https://user-images.githubusercontent.com/89809182/150015201-dcc64291-88a9-4197-98a0-30593e8ffed9.JPG)
 SIMULACION UBIDOTS | CONCENTRACION>6000[PPM]
