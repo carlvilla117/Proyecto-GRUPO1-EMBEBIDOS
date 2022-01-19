@@ -37,7 +37,7 @@ SIMULACION ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION>6000[PPM]
 SIMULACION UBIDOTS | CONCENTRACION>6000[PPM]
 ![Concentración mayor a 6000PPM_Ubidots](https://user-images.githubusercontent.com/89809182/150015207-cb5864f7-2c5d-4a97-a088-a84fb342cb35.JPG)
 ACTUALIZACION DE DATO DE CONCENTRACION ACTUAL 6402 [PPM] | FIREBASE
-![Actualización dato actual en Firebase](https://user-images.githubusercontent.com/89809182/150021779-35f4ca95-6c57-492c-bab0-87696756a8fe.jpg)
+![DatoFirebase_6402PPM](https://user-images.githubusercontent.com/89809182/150154636-2adc5d32-ee88-4f63-94a5-01f9c311653d.jpeg)
 SOLICITUD DE DATO ACTUAL DE CONCENTRACION | MIT APP INVENTOR
 ![DatoFirebase_6042PPM](https://user-images.githubusercontent.com/89809182/150061619-2cd06040-cccb-4daa-89c6-6c8f3a967d1a.jpeg)
 
@@ -54,6 +54,7 @@ NOTIFICACION POR CORREO
 - Serial a 9600 Baudios
 - Frecuencia de 8 MHz
 - Configuración estandar en modo UART
+
 
 
 
