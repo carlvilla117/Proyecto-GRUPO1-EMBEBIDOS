@@ -30,14 +30,12 @@ SIMULACION UBIDOTS | CONCENTRACION<6000[PPM]
 ![Concentración menor a 6000PM_Ubidots](https://user-images.githubusercontent.com/89809182/150015181-61ab72ba-8f38-44f7-a210-7c3009040323.JPG)
 ACTUALIZACION DE DATO DE CONCENTRACION ACTUAL 195 [PPM] | FIREBASE
 ![Actualización dato actual en Firebase 1](https://user-images.githubusercontent.com/89809182/150022239-f55dc106-e3e3-4f40-a974-688f3148560e.jpg)
-SOLICITUD DE DATO ACTUAL DE CONCENTRACION | MIT APP INVENTOR
-![DatoFirebase_195PPM](https://user-images.githubusercontent.com/89809182/150061611-7538317e-59e4-4760-85d5-93c04757b294.jpeg)
+
 SIMULACION ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION>6000[PPM]
 ![Concentración mayor a 6000PPM](https://user-images.githubusercontent.com/89809182/150015201-dcc64291-88a9-4197-98a0-30593e8ffed9.JPG)
 SIMULACION UBIDOTS | CONCENTRACION>6000[PPM]
 ![Concentración mayor a 6000PPM_Ubidots](https://user-images.githubusercontent.com/89809182/150015207-cb5864f7-2c5d-4a97-a088-a84fb342cb35.JPG)
-ACTUALIZACION DE DATO DE CONCENTRACION ACTUAL 6402 [PPM] | FIREBASE
-![DatoFirebase_6402PPM](https://user-images.githubusercontent.com/89809182/150154636-2adc5d32-ee88-4f63-94a5-01f9c311653d.jpeg)
+
 SOLICITUD DE DATO ACTUAL DE CONCENTRACION | MIT APP INVENTOR
 ![DatoFirebase_6042PPM](https://user-images.githubusercontent.com/89809182/150061619-2cd06040-cccb-4daa-89c6-6c8f3a967d1a.jpeg)
 
