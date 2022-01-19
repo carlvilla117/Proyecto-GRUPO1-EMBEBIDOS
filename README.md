@@ -16,11 +16,11 @@ PCB
 
 APP INVENTOR | DESIGNER
 
-![App_inventor_designer](https://user-images.githubusercontent.com/89809182/150012112-42acdf84-63c2-400d-af1d-cd9faa53ce94.JPG)
+![App_inventor_designer](https://user-images.githubusercontent.com/89809182/150061427-fdcec9fe-dfcf-4401-9c76-4183adcef6c7.JPG)
 
 APP INVENTOR | BLOCKS
 
-![App_inventor_Blocks](https://user-images.githubusercontent.com/89809182/150012134-a0aa6f81-e5d7-41d8-aea8-da9b0e6593b6.JPG)
+![App_inventor_Blocks](https://user-images.githubusercontent.com/89809182/150061423-c9ed1e6c-01f4-4edc-a861-1e3b16cb3298.JPG)
 
 DIAGRAMA INICIAL ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION<6000[PPM]
 ![Diagrama inicial](https://user-images.githubusercontent.com/89809182/150015160-7ec2cca8-eb9f-4c6d-846e-64f4e1262321.JPG)
@@ -31,7 +31,7 @@ SIMULACION UBIDOTS | CONCENTRACION<6000[PPM]
 ACTUALIZACION DE DATO DE CONCENTRACION ACTUAL 195 [PPM] | FIREBASE
 ![Actualización dato actual en Firebase 1](https://user-images.githubusercontent.com/89809182/150022239-f55dc106-e3e3-4f40-a974-688f3148560e.jpg)
 SOLICITUD DE DATO ACTUAL DE CONCENTRACION | MIT APP INVENTOR
-![Dato_Firebase_195](https://user-images.githubusercontent.com/89809182/150054158-6de3b00b-6b94-423b-97d2-63671b6b6488.jpeg)
+![DatoFirebase_195PPM](https://user-images.githubusercontent.com/89809182/150061611-7538317e-59e4-4760-85d5-93c04757b294.jpeg)
 SIMULACION ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION>6000[PPM]
 ![Concentración mayor a 6000PPM](https://user-images.githubusercontent.com/89809182/150015201-dcc64291-88a9-4197-98a0-30593e8ffed9.JPG)
 SIMULACION UBIDOTS | CONCENTRACION>6000[PPM]
@@ -39,7 +39,7 @@ SIMULACION UBIDOTS | CONCENTRACION>6000[PPM]
 ACTUALIZACION DE DATO DE CONCENTRACION ACTUAL 6402 [PPM] | FIREBASE
 ![Actualización dato actual en Firebase](https://user-images.githubusercontent.com/89809182/150021779-35f4ca95-6c57-492c-bab0-87696756a8fe.jpg)
 SOLICITUD DE DATO ACTUAL DE CONCENTRACION | MIT APP INVENTOR
-![Dato_Firebase_6042PPM](https://user-images.githubusercontent.com/89809182/150054165-64319ee1-0097-4ab4-a27c-c03fb2e589ba.jpeg)
+![DatoFirebase_6042PPM](https://user-images.githubusercontent.com/89809182/150061619-2cd06040-cccb-4daa-89c6-6c8f3a967d1a.jpeg)
 
 NOTIFICACION POR CORREO
 
@@ -54,6 +54,11 @@ NOTIFICACION POR CORREO
 - Serial a 9600 Baudios
 - Frecuencia de 8 MHz
 - Configuración estandar en modo UART
+
+
+
+
+
 
 
 
