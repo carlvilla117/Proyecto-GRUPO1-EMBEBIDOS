@@ -1,5 +1,5 @@
 # Proyecto: Sistema de detección y alarma ante fuga de gas
-Repositorio con todo el código utilizado para el proyecto, así como los archivos de simulación, esquemáticos y capturas
+Repositorio con todo el código utilizado para el proyecto, así como los archivos de simulación, esquemáticos y capturas de funcionamiento
 # Descripción
 Proceso de sensado de la concentración de GLP mediante el sensor de gas MQ-2 se convierte la información analógica a digital (ADC) donde se monitorea y envía a otro microcontrolador que lo envía  a su vez a una base de datos donde si se cumple cierta condición de concentración peligrosa de GLP se da una alerta mediante correo a el o los contactos configurados, adicionalmente de forma local se dan las alarmas sonoras y visuales. Además, con la aplicaicón movil se puede consultar por la información de concentración actual.
 # Esquemáticos
