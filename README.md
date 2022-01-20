@@ -32,13 +32,13 @@ PROGRAMACIÓN EN BLOQUES DE LA APLICACIÓN
 
 # Funcionamiento (Simulaciones)
 
-CONCENTRACION<6000[PPM]
+CONCENTRACION MENOR A 6000 [PPM]
 
 ![Concentración menor a 6000 PPM](https://user-images.githubusercontent.com/89809182/150261222-e74e3abd-7b20-440f-ae39-fa1d0ced272a.jpeg)
 
 ![Ubidots 2306  PPM](https://user-images.githubusercontent.com/89809182/150261230-77dc0609-df8b-4a9e-9d43-c7acd44c9675.jpeg)
 
-CONCENTRACION>6000[PPM]
+CONCENTRACION MAYOR A 6000[PPM]
 
 ![Concentración mayor a 6000  PPM](https://user-images.githubusercontent.com/89809182/150261287-d109bdff-7d34-4f57-8c65-efcc766124c4.jpeg)
 
