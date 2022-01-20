@@ -8,7 +8,8 @@ ATMEGA328P | SENSOR(POTENCIOMETRO SIMULADO) | LCD | PUERTO COM | DRIVER PIC PARA
 RASPBERRY PI 4 | LED | BUZZER | PUERTO COM | TERMINAL VIRTUAL
 ![RPI4_esquematico](https://user-images.githubusercontent.com/64044895/149861173-3aea757d-aebf-48de-9c3b-5a134753a549.png)
 ESQUEMÁTICO COMPLETO
-![Esquematico_completo](https://user-images.githubusercontent.com/64044895/149861628-273a7632-fb6c-4cef-b2cc-2aabedec5619.png)
+![Componentes](https://user-images.githubusercontent.com/64044895/150248963-5c36fd1f-796c-4cfc-a283-6c30e9e1a3a8.png)
+
 
 PCB
 
