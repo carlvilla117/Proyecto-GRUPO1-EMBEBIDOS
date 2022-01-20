@@ -20,7 +20,7 @@ PCB (PLACA DE CIRCUITO IMPRESO)
 
 ![PCB](https://user-images.githubusercontent.com/64044895/149861771-b11b0451-07d5-4136-aa02-7eb56bf832ba.png)
 
-# APP INVENTOR
+# MIT App Inventor
 
 DISEÑO DE LA APLICACIÓN
 
@@ -30,16 +30,16 @@ PROGRAMACIÓN EN BLOQUES DE LA APLICACIÓN
 
 ![App_inventor_Blocks](https://user-images.githubusercontent.com/89809182/150061423-c9ed1e6c-01f4-4edc-a861-1e3b16cb3298.JPG)
 
-DIAGRAMA INICIAL ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION<6000[PPM]
-![Diagrama inicial](https://user-images.githubusercontent.com/89809182/150015160-7ec2cca8-eb9f-4c6d-846e-64f4e1262321.JPG)
+# Funcionamiento (Simulaciones)
+
+
 SIMULACION ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION<6000[PPM]
-![Concentración menor a 6000PPM](https://user-images.githubusercontent.com/89809182/150015173-232650d2-fece-4630-9c1b-69e33936eeec.JPG)
+
 SIMULACION UBIDOTS | CONCENTRACION<6000[PPM]
-![Concentración menor a 6000PM_Ubidots](https://user-images.githubusercontent.com/89809182/150015181-61ab72ba-8f38-44f7-a210-7c3009040323.JPG)
+
 SIMULACION ATMEGA328P | RASPBERRY PI 4 | CONCENTRACION>6000[PPM]
-![Concentración mayor a 6000PPM](https://user-images.githubusercontent.com/89809182/150015201-dcc64291-88a9-4197-98a0-30593e8ffed9.JPG)
+
 SIMULACION UBIDOTS | CONCENTRACION>6000[PPM]
-![Concentración mayor a 6000PPM_Ubidots](https://user-images.githubusercontent.com/89809182/150015207-cb5864f7-2c5d-4a97-a088-a84fb342cb35.JPG)
 
 
 NOTIFICACION POR CORREO
