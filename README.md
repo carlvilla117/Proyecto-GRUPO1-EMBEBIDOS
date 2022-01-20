@@ -3,23 +3,30 @@ Repositorio con todo el código utilizado para el proyecto, así como los archiv
 # Descripción
 Proceso de sensado de la concentración de GLP mediante el sensor de gas MQ-2 se convierte la información analógica a digital (ADC) donde se monitorea y envía a otro microcontrolador que lo envía  a su vez a una base de datos donde si se cumple cierta condición de concentración peligrosa de GLP se da una alerta mediante correo a el o los contactos configurados, adicionalmente de forma local se dan las alarmas sonoras y visuales. Además, con la aplicaicón movil se puede consultar por la información de concentración actual.
 # Esquemáticos
-ATMEGA328P | SENSOR(POTENCIOMETRO SIMULADO) | LCD | PUERTO COM | DRIVER PIC PARA LCD | TERMINAL VIRTUAL
+
+ATMEGA328P (PROTEUS)
+
 ![Proteus_Atmega328P](https://user-images.githubusercontent.com/89809182/150249223-a9a82c03-db6e-4e3f-96e3-ba627c54beee.JPG)
-RASPBERRY PI 4 | LED | BUZZER | PUERTO COM | TERMINAL VIRTUAL
+
+RASPBERRY PI 4 (PROTEUS)
+
 ![Proteus_RaspberryPi4](https://user-images.githubusercontent.com/89809182/150249245-3df12490-9ab0-4cc7-9f15-3ff802ab8145.JPG)
-ESQUEMÁTICO COMPLETO
+
+ESQUEMÁTICO COMPLETO (ATMEGA328P Y RASPBERRY JUNTOS)
+
 ![Componentes](https://user-images.githubusercontent.com/64044895/150248963-5c36fd1f-796c-4cfc-a283-6c30e9e1a3a8.png)
 
-
-PCB
+PCB (PLACA DE CIRCUITO IMPRESO)
 
 ![PCB](https://user-images.githubusercontent.com/64044895/149861771-b11b0451-07d5-4136-aa02-7eb56bf832ba.png)
 
-APP INVENTOR | DESIGNER
+# APP INVENTOR
+
+DISEÑO DE LA APLICACIÓN
 
 ![App_inventor_designer](https://user-images.githubusercontent.com/89809182/150061427-fdcec9fe-dfcf-4401-9c76-4183adcef6c7.JPG)
 
-APP INVENTOR | BLOCKS
+PROGRAMACIÓN EN BLOQUES DE LA APLICACIÓN
 
 ![App_inventor_Blocks](https://user-images.githubusercontent.com/89809182/150061423-c9ed1e6c-01f4-4edc-a861-1e3b16cb3298.JPG)
 
