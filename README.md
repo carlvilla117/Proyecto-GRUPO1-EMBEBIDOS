@@ -32,19 +32,19 @@ PROGRAMACIÓN EN BLOQUES DE LA APLICACIÓN
 
 # Funcionamiento (Simulaciones)
 
-
 CONCENTRACION<6000[PPM]
 
+![Concentración menor a 6000 PPM](https://user-images.githubusercontent.com/89809182/150261222-e74e3abd-7b20-440f-ae39-fa1d0ced272a.jpeg)
 
+![Ubidots 2306  PPM](https://user-images.githubusercontent.com/89809182/150261230-77dc0609-df8b-4a9e-9d43-c7acd44c9675.jpeg)
 
 CONCENTRACION>6000[PPM]
 
+![Concentración mayor a 6000  PPM](https://user-images.githubusercontent.com/89809182/150261287-d109bdff-7d34-4f57-8c65-efcc766124c4.jpeg)
 
+![Ubidots 6910  PPM](https://user-images.githubusercontent.com/89809182/150261289-ff96cc27-d9ea-4ef0-9a27-08f55b1c2f41.jpeg)
 
-
-NOTIFICACION POR CORREO
-
-![Notificacion por correo](https://user-images.githubusercontent.com/89809182/150012136-9c262b6f-c1e9-4105-a284-812075471498.JPG)
+![Notificación por correo](https://user-images.githubusercontent.com/89809182/150261568-79e4e3ec-fa7c-47d2-89f2-a8f6aafde9b0.jpeg)
 
 
 # Programas utilizados
@@ -55,13 +55,3 @@ NOTIFICACION POR CORREO
 - Serial a 9600 Baudios
 - Frecuencia de 8 MHz
 - Configuración estandar en modo UART
-
-
-
-
-
-
-
-
-
-
