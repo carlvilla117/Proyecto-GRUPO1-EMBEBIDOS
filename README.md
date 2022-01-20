@@ -12,7 +12,7 @@ Proceso de sensado de la concentración de GLP mediante el sensor de gas MQ-2 se
 
 ![Proteus_RaspberryPi4](https://user-images.githubusercontent.com/89809182/150249245-3df12490-9ab0-4cc7-9f15-3ff802ab8145.JPG)
 
-## ESQUEMÁTICO COMPLETO (ATMEGA328P Y RASPBERRY JUNTOS)
+## ESQUEMÁTICO COMPLETO (ATMEGA328P Y RASPBERRY PI4 JUNTOS)
 
 ![Componentes](https://user-images.githubusercontent.com/64044895/150248963-5c36fd1f-796c-4cfc-a283-6c30e9e1a3a8.png)
 
