@@ -1,31 +1,60 @@
-# Modules
-from http.server import BaseHTTPRequestHandler, HTTPServer
-from time import*
-from funciones import*
-from config import*
+import os
+import socket
+import requests
+from wiringpi import Serial
+from time import sleep
 
-init()
+baud = 9600
+ser  = Serial("/dev/serial0",baud)
+sleep(0.3)
+myip = socket.gethostbyname(socket.gethostname())
+print (myip)
 
-# Main function
-def main () :
-# Infinite loop
+def recibir(echo = True):
+ data = ""
  while True:
-  mensaje = recibir()
-  k1 = 0
-  try:
-   k1 = int(mensaje)
-  except:
-   print("error")
-   pass
-  sleep(0.1)
-  prints("Concentracion: ")
-  printsln(str(k1))
-  payload = build_payload(VARIABLE_LABEL_1)
-  print("[INFO] Attemping to send data")
-  post_request(payload)
-  print("[INFO] finished")
-  sleep(0.1)  
+  input = ser.getchar()
+  if echo:
+   ser.putchar(input)
+  if input == "\r":
+   return (data)
+  data += input
+ sleep(0.2)
+  
+def printsln(menss):
+ ser.puts(menss+"\r")
+ sleep(0.2)
 
-# Command line execution
-if __name__ == '__main__' :
- main()
+def prints(menss):
+ ser.puts(menss)
+ sleep(0.2)
+
+def build_payload(variable_1):
+    value_1 = int(recibir()) #Recibo el dato de concentracion
+    print ("CONECTADO...")  
+    payload = {variable_1: value_1}
+    return payload
+
+def post_request(payload):
+    # Creates the headers for the HTTP requests
+    url = "http://industrial.api.ubidots.com"
+    url = "{}/api/v1.6/devices/{}".format(url, DEVICE_LABEL)
+    headers = {"X-Auth-Token": TOKEN, "Content-Type": "application/json"}
+
+    # Makes the HTTP requests
+    status = 400
+    attempts = 0
+    while status >= 400 and attempts <= 5:
+        req = requests.post(url=url, headers=headers, json=payload)
+        status = req.status_code
+        attempts += 1
+        sleep(1)
+
+    # Processes results
+    if status >= 400:
+        print("[ERROR] Could not send data after 5 attempts, please check \
+            your token credentials and internet connection")
+        return False
+
+    print("[INFO] request made properly, your device is updated")
+    return True
